@@ -6,4 +6,4 @@
 *  Team Memebers : Rayman Ridham Kriti
 #
 
-LinkedIn --> [Rayman Kour Sodhi](https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3) 
+LinkedIn -> [Rayman Kour Sodhi](https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3) 
